@@ -18,6 +18,6 @@ accountCity="delhi"
 
 console.log(accountId);
 
-console.table([accountEmail ,accountPasswor, accountCity, accountState])
+console.table([accountId,accountEmail ,accountPasswor, accountCity, accountState])
 
 
